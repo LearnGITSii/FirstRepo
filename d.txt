@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vadim asdf pozdro
+=======
+san escobare 2.0
+>>>>>>> 2c42a21eefde27c83935ec4133aa330edde67f85
